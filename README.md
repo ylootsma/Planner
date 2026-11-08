@@ -33,7 +33,7 @@ Work is organised in **epics** (main features) and **features** (sub features). 
 | 6 | Calendar | Day · Week · Month · Tick off and drag · Filter by |
 | 7 | Overview | Tracking to-dos · Tracking goals · Visual representation · Mini overviews · Done log |
 | 8 | External input | Google Calendar sync · Email · File uploads · Evening check |
-| 9 | Notifications | Reminders · Evening summary · Goal sign-off prompt |
+| 9 | Notifications | Notification setup · Reminders · Evening summary · Goal sign-off prompt |
 
 Build order: 1 → 2 → 3 → 4, then 5 and 8 in parallel, then 6 and 7 in parallel, then 9.
 
