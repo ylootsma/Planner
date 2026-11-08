@@ -30,7 +30,7 @@ Work is organised in **epics** (main features) and **features** (sub features). 
 | 3 | Layout / UX | App shell and navigation · Mobile · Tablet · PC |
 | 4 | Entries | To-do · Event · Goal · Repeat rules · "To plan" list |
 | 5 | Planning engine | Auto-plan · Travel time · Clash detection · Replan · Learn my pace |
-| 6 | Calendar | Day · Week · Month · Tick off and drag · Filter by |
+| 6 | Calendar | Day · Week · Month · Tick off and drag · Filter by · Clash display (after engine clash detection) |
 | 7 | Overview | Tracking to-dos · Tracking goals · Visual representation · Mini overviews · Done log |
 | 8 | External input | Google Calendar sync · Email · File uploads · Evening check |
 | 9 | Notifications | Notification setup · Reminders · Evening summary · Goal sign-off prompt |
